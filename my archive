@@ -1,1 +1,2 @@
 feat: add user registration endpoint
+feat(auth): implement JWT token generation
