@@ -1,3 +1,4 @@
 feat: add user registration endpoint
 feat(auth): implement JWT token generation
 feat(ui): create login page component
+fix(auth): handle invalid credentials error properly
