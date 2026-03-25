@@ -14,3 +14,4 @@ perf: optimize image loading with lazy attribute
 feat: implement dark mode toggle
 feat(api): add pagination to users list endpoint
 fix(database): prevent SQL injection in search query
+refactor: rename variables for better readability
