@@ -73,3 +73,4 @@ style: apply prettier formatting rule
 feat: add wishlist feature
 fix: resolve conflict in merge wishlist item
 docs: add architecture diagram to docs
+feat: implement push notification
