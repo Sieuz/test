@@ -11,3 +11,4 @@ style: apply consistent spacing in component
 feat(dashboard): add user profile overview section
 fix(ui): fix mobile responsive layout on navbar
 perf: optimize image loading with lazy attribute
+feat: implement dark mode toggle
