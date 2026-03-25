@@ -28,3 +28,4 @@ refactor(user): split user model into smaller interface
 perf: memoize expensive calculations in dashboard
 feat(admin): create admin dashboard layout
 test: add integration test for payment flow
+chore(dep): bump typescript to 5.4
