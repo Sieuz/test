@@ -57,3 +57,4 @@ feat: implement rate limiting on API
 fix: prevent duplicate orders submission
 refactor: improve error handling middleware
 style: organize import alphabetically
+ci: deploy preview on pull request
