@@ -69,3 +69,4 @@ chore: remove unused dependencie
 feat(cart): persist cart in localStorage
 fix(cart): sync cart after login
 refactor: use zustand for state management
+style: apply prettier formatting rule
