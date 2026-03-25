@@ -20,3 +20,4 @@ chore: configure eslint rules for react hooks
 ci: add github actions workflow for test
 feat(payment): integrate stripe checkout
 fix(payment): handle failed payment webhook
+docs: add installation guide to README
