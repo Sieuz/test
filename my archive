@@ -63,3 +63,4 @@ fix(review): sanitize user input in review
 docs: update changelog with recent change
 feat: add admin role-based access control
 fix(auth): refresh token rotation logic
+perf: cache API responses with redis
