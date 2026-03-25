@@ -81,3 +81,4 @@ ci: run test on multiple node version
 feat: add analytic tracking with GA4
 fix: correct event tracking on button click
 refactor: modularize analytics service
+chore: update security headers in nginx config
