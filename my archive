@@ -9,3 +9,5 @@ test: add unit tests for login validation
 chore(deps): upgrade react from 18.2 to 18.3
 style: apply consistent spacing in component
 feat(dashboard): add user profile overview section
+fix(ui): fix mobile responsive layout on navbar
+perf: optimize image loading with lazy attribute
