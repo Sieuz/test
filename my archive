@@ -88,3 +88,4 @@ docs: explain RBAC implementation
 feat: support file uploads for avatar
 fix(upload): validate file size and type
 perf: compress uploaded images
+test: add unit test for file upload util
