@@ -102,3 +102,4 @@ feat: add password strength meter
 fix: improve accessibility in form
 refactor: use formik + yup for validation
 test: add form validation test
+chore: final cleanup before v1.0 release
