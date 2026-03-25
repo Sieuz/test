@@ -33,3 +33,4 @@ ci: cache node_modules in github action
 feat: implement email verification on signup
 fix(auth): prevent token expiration edge case
 feat(ui): add loading spinner component
+refactor: use context API for theme management
