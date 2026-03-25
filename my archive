@@ -94,3 +94,4 @@ feat: add blog section with markdown support
 fix: render markdown safely with rehype
 refactor: separate blog service logic
 style: consistent heading style in blog
+ci: add automated changelog generation
