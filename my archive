@@ -96,3 +96,4 @@ refactor: separate blog service logic
 style: consistent heading style in blog
 ci: add automated changelog generation
 feat: implement social login (Google)
+fix: handle OAuth callback error
