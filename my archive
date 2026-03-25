@@ -78,3 +78,4 @@ fix: handle offline mode for cart
 perf: lazy load heavy component
 test: add accessibility test with axe
 ci: run test on multiple node version
+feat: add analytic tracking with GA4
