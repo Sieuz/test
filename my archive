@@ -48,3 +48,4 @@ ci: add lint check step in CI pipeline
 feat: support multiple languages (i18n)
 fix: handle missing translation keys gracefully
 docs: add contributing guideline
+feat(notification): add in-app notification
