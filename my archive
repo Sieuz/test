@@ -99,3 +99,4 @@ feat: implement social login (Google)
 fix: handle OAuth callback error
 docs: add OAuth setup instruction
 feat: add password strength meter
+fix: improve accessibility in form
