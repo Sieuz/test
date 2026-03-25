@@ -89,3 +89,4 @@ feat: support file uploads for avatar
 fix(upload): validate file size and type
 perf: compress uploaded images
 test: add unit test for file upload util
+chore(dep): upgrade next.js to 14.2
