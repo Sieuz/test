@@ -66,3 +66,4 @@ fix(auth): refresh token rotation logic
 perf: cache API responses with redis
 test: add security tests for auth route
 chore: remove unused dependencie
+feat(cart): persist cart in localStorage
