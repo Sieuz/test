@@ -93,3 +93,4 @@ chore(dep): upgrade next.js to 14.2
 feat: add blog section with markdown support
 fix: render markdown safely with rehype
 refactor: separate blog service logic
+style: consistent heading style in blog
