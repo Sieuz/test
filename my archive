@@ -83,3 +83,4 @@ fix: correct event tracking on button click
 refactor: modularize analytics service
 chore: update security header in nginx config
 feat(admin): add user management panel
+fix(admin): prevent self-deletion of admin
