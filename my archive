@@ -65,3 +65,4 @@ feat: add admin role-based access control
 fix(auth): refresh token rotation logic
 perf: cache API responses with redis
 test: add security tests for auth route
+chore: remove unused dependencie
