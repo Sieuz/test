@@ -18,3 +18,4 @@ refactor: rename variables for better readability
 test(e2e): add cypress test for login flow
 chore: configure eslint rules for react hooks
 ci: add github actions workflow for test
+feat(payment): integrate stripe checkout
