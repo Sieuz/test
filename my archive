@@ -72,3 +72,4 @@ refactor: use zustand for state management
 style: apply prettier formatting rule
 feat: add wishlist feature
 fix: resolve conflict in merge wishlist item
+docs: add architecture diagram to docs
