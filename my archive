@@ -30,3 +30,4 @@ feat(admin): create admin dashboard layout
 test: add integration test for payment flow
 chore(dep): bump typescript to 5.4
 ci: cache node_modules in github action
+feat: implement email verification on signup
