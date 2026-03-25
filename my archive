@@ -39,3 +39,4 @@ style: remove trailing whitespace across project
 feat: add product search with debounce
 fix: resolve infinite re-render in cart component
 perf: implement virtual scrolling for product list
+test: add snapshot test for UI component
