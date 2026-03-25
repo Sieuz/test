@@ -4,7 +4,8 @@ feat(ui): create login page component
 fix(auth): handle invalid credentials error properly
 fix: resolve CORS issue with frontend origin
 refactor: extract auth service to separate module
-docs: update API documentation for auth endpoints
+docs: update API documentation for auth endpoint
 test: add unit tests for login validation
 chore(deps): upgrade react from 18.2 to 18.3
-style: apply consistent spacing in components
+style: apply consistent spacing in component
+feat(dashboard): add user profile overview section
