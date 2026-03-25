@@ -22,3 +22,4 @@ feat(payment): integrate stripe checkout
 fix(payment): handle failed payment webhook
 docs: add installation guide to README
 style(component): format all button style
+feat: add forgot password functionality
