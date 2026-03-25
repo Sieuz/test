@@ -80,3 +80,4 @@ test: add accessibility test with axe
 ci: run test on multiple node version
 feat: add analytic tracking with GA4
 fix: correct event tracking on button click
+refactor: modularize analytics service
