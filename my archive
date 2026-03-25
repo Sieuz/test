@@ -45,3 +45,4 @@ feat(order): create order history page
 fix(order): fix total price calculation bug
 refactor: extract hooks to custom hooks folder
 ci: add lint check step in CI pipeline
+feat: support multiple languages (i18n)
