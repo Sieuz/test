@@ -60,3 +60,4 @@ style: organize import alphabetically
 ci: deploy preview on pull request
 feat(review): add product review system
 fix(review): sanitize user input in review
+docs: update changelog with recent change
