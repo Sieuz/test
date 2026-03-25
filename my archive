@@ -42,3 +42,4 @@ perf: implement virtual scrolling for product list
 test: add snapshot test for UI component
 chore: update package-lock.json after audit
 feat(order): create order history page
+fix(order): fix total price calculation bug
