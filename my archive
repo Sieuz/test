@@ -74,3 +74,4 @@ feat: add wishlist feature
 fix: resolve conflict in merge wishlist item
 docs: add architecture diagram to docs
 feat: implement push notification
+fix: handle offline mode for cart
