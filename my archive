@@ -55,3 +55,4 @@ test: add tests for notification reducer
 chore(deps-dev): upgrade jest to latest
 feat: implement rate limiting on API
 fix: prevent duplicate orders submission
+refactor: improve error handling middleware
