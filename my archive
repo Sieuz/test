@@ -86,3 +86,4 @@ feat(admin): add user management panel
 fix(admin): prevent self-deletion of admin
 docs: explain RBAC implementation
 feat: support file uploads for avatar
+fix(upload): validate file size and type
