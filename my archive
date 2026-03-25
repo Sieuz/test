@@ -4,3 +4,4 @@ feat(ui): create login page component
 fix(auth): handle invalid credentials error properly
 fix: resolve CORS issue with frontend origin
 refactor: extract auth service to separate module
+docs: update API documentation for auth endpoints
