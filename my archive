@@ -25,7 +25,7 @@ style(component): format all button style
 feat: add forgot password functionality
 fix: correct typo in error message
 refactor(user): split user model into smaller interface
-perf: memoize expensive calculations in dashboard
+perf: memoize expensive calculation in dashboard
 feat(admin): create admin dashboard layout
 test: add integration test for payment flow
 chore(dep): bump typescript to 5.4
