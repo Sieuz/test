@@ -12,12 +12,13 @@ feat(dashboard): add user profile overview section
 fix(ui): fix mobile responsive layout on navbar
 perf: optimize image loading with lazy attribute
 feat: implement dark mode toggle
-feat(api): add pagination to users list endpoint
+feat(api): add pagination to user list endpoint
 fix(database): prevent SQL injection in search query
 refactor: rename variables for better readability
 test(e2e): add cypress test for login flow
-chore: configure eslint rules for react hooks
+chore: configure eslint rule for react hook
 ci: add github actions workflow for test
 feat(payment): integrate stripe checkout
 fix(payment): handle failed payment webhook
 docs: add installation guide to README
+style(component): format all button style
