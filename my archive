@@ -53,3 +53,4 @@ fix(ui): correct alignment in notification bell
 perf: reduce bundle size by tree shaking
 test: add tests for notification reducer
 chore(deps-dev): upgrade jest to latest
+feat: implement rate limiting on API
