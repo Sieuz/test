@@ -85,3 +85,4 @@ chore: update security header in nginx config
 feat(admin): add user management panel
 fix(admin): prevent self-deletion of admin
 docs: explain RBAC implementation
+feat: support file uploads for avatar
