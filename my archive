@@ -6,3 +6,4 @@ fix: resolve CORS issue with frontend origin
 refactor: extract auth service to separate module
 docs: update API documentation for auth endpoints
 test: add unit tests for login validation
+chore(deps): upgrade react from 18.2 to 18.3
